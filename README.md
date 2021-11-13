@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @toddz262
+- 👋 Hi, I’m @toddz262 - aka ToddZ, Altidude
 - 👀 I’m interested in PKM, project management, Jamstack.
 - 🌱 I’m currently learning Git.
-- 💞️ I’m looking to collaborate on ... TBD
+- 💞️ I’m looking to collaborate on TASAT.
 - 📫 How to reach me ... TBA
 
 <!---
