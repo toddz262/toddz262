@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @toddz262 - aka ToddZ, Altidude
 - 👀 I’m interested in PKM, project management, web design.
 - 🌱 I’m currently learning Kirby CMS, Git, Docker.
-- 💞️ I’m looking to collaborate on TASAT.
+- 💞️ I’m collaborating on TASAT.
 - 📫 How to reach me ... TBA
 
 <!---
